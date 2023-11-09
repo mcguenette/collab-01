@@ -1,0 +1,15 @@
+#canvas1 {
+  /* border: 5px solid #000; */
+  width: 100px;
+  height: 100px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  align-items: center;
+  height: 100dvh;
+  text-align: center;
+  gap: 2rem;
+}
